@@ -1,0 +1,2 @@
+Solution: CGGCGA
+(Note that more than one solution may exist: In such cases, only one solution is provided by this program as per the assignment details)
